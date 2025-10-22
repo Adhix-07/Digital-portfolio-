@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f3f2ef;
+}
+
+header {
+  background: white;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+section {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.skills span {
+  display: inline-block;
+  background: #0073b1;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 20px;
+  margin: 4px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #0073b1;
+  color: white;
+}
